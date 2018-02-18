@@ -1,0 +1,4 @@
+vincere.identity:
+  uri: https://identity.vinceredev.com 99
+  message: vincere identity develop test 2
+identity: this is identity from develop test
